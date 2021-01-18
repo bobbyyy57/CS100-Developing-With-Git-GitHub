@@ -1,0 +1,8 @@
+Makefile
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+c-echo-count
+test
+a.out
