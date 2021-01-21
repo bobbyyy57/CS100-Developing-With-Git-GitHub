@@ -15,8 +15,3 @@ unsigned int count(const std::string& str) {
 
     return counter;
 }
-// count function should go here
-int count(const std::string& phrase) {
-    return 0;
-}
-
